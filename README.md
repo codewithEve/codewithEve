@@ -4,7 +4,7 @@ Welcome to my little corner of GitHub! I'm a beginner programmer excited to crea
 ## About Me 🌈
 **Aspiring Programmer**: I'm diving into the world of programming and eager to learn everything I can! 💻
 
- **College Student:** I'm currently a second-year student at Miami Dade College, studying for an Associate in Science Degree in Computer Programming & Analysis – Mobile Application. 📚
+ **College Student:** I'm currently a second-year student at Miami Dade College, studying for an Associate of Science Degree in Computer Programming & Analysis – Mobile Application. 📚
 
 **Indie Game Enthusiast**: I’m passionate about collaborating on indie game projects and bringing imaginative ideas to life! 🎮
 
