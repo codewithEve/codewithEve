@@ -9,7 +9,7 @@ Welcome to my little corner of GitHub! I'm a beginner programmer excited to crea
 **Indie Game Enthusiast**: I’m passionate about collaborating on indie game projects and bringing imaginative ideas to life! 🎮
 
 ## 🌟 Skills
-**Programming Languages**: C++, Java, Python, Swift, SQL, and a sprinkle of HTML/CSS!
+**Programming Languages**: C++, Java, Python, Swift, SQL, Javascript and a sprinkle of HTML/CSS!
 
 **Bilingual**: I speak both English and Spanish!
 
